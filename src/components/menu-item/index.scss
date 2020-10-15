@@ -1,0 +1,25 @@
+.menu-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 120rpx;
+    position: absolute;
+    overflow: hidden;
+    transition: all 2s;
+}
+
+.menu-item-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80rpx;
+    height: 80rpx;
+    box-sizing: border-box;
+    border: 2rpx solid #222222;
+    border-radius: 50%;
+}
+
+.menu-item-label {
+    text-align: center;
+}
