@@ -1,7 +1,7 @@
 # disk-menu
 #### 简单说明：
 
-使用 Taro3 + React + TypeScript 写出来的一个半圆型轮盘菜单效果。
+使用 Taro3 + React + TypeScript 写出来的一个半圆形轮盘菜单效果。
 
 
 
