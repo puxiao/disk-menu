@@ -37,5 +37,5 @@
 
 #### 运行截图：
 
-![截图](https://github.com/puxiao/disk-menu/blob/main/imgs/disk_menu.jpg)
+![截图](https://puxiao.com/github/disk_menu.jpg)
 
