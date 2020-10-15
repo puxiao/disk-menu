@@ -33,3 +33,9 @@
 
 > 菜单圆点直接冲着目标位置 过去，理想中的，每个圆点都应该严格按照 圆 的轨迹来运动
 
+
+
+#### 运行截图：
+
+![截图](https://github.com/puxiao/disk-menu/blob/main/imgs/disk_menu.jpg)
+
